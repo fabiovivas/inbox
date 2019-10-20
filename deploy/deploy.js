@@ -4,7 +4,7 @@ const { abi, evm } = require('./compile')
 
 const provider = new HDWalletProvider(
     'x x x x x x x x x x x x',
-    'https://rinkeby.infura.io/v3/b1c6c2b959fc4a8f9646681d8976963f'
+    'https://rinkeby.infura.io/v3/xxxxxxxxxxxxxxxxxx'
 );
 const web3 = new Web3(provider);
 
