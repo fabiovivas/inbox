@@ -3,7 +3,7 @@ const Web3 = require('web3');
 const { abi, evm } = require('./compile')
 
 const provider = new HDWalletProvider(
-    'save frame filter isolate yard output people rude absurd table shy bomb',
+    'x x x x x x x x x x x x',
     'https://rinkeby.infura.io/v3/b1c6c2b959fc4a8f9646681d8976963f'
 );
 const web3 = new Web3(provider);
